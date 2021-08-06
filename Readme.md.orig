@@ -1,0 +1,8 @@
+#TP 1
+**Algunas lineas de texto**
+<<<<<<< HEAD
+Más texto agregado en el clon original
+=======
+:)
+Estas lineas de texto van a colapsar con las del clon original 
+>>>>>>> 7435b8bcaa6086248c1e10b39644f0b7cd8f9e87
